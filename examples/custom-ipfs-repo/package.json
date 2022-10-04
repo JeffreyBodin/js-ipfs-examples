@@ -17,7 +17,7 @@
     "blockstore-datastore-adapter": "^2.0.3",
     "datastore-fs": "^7.0.0",
     "ipfs-core": "^0.14.0",
-    "ipfs-repo": "^14.0.1",
+    "ipfs-repo": "^15.0.3",
     "it-all": "^1.0.4",
     "multiformats": "^9.4.1",
     "uint8arrays": "^3.0.0"
