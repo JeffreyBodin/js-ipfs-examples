@@ -30,7 +30,7 @@
     "libp2p-websockets": "^0.16.1",
     "multiformats": "^9.4.7",
     "p-retry": "^4.2.0",
-    "uint8arrays": "^3.0.0"
+    "uint8arrays": "^4.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
